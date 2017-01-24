@@ -1,3 +1,5 @@
+**Obsolete. You can now use [@types/proj4](https://www.npmjs.com/package/@types/proj4)**
+
 Proj4 TypeScript Definitions
 ============================
 
